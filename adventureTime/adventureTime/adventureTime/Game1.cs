@@ -19,6 +19,7 @@ namespace adventureTime
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 
+        Texture2D tile;
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
@@ -47,6 +48,8 @@ namespace adventureTime
         {
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
+
+            tile = Content.Load<Texture2D>("map tiles");
 
 
             // TODO: use this.Content to load your game content here
