@@ -1,6 +1,0 @@
-C:\Users\95aleval\ATG\adventureTime\adventureTime\adventureTime\bin\x86\Debug\adventureTime.exe
-C:\Users\95aleval\ATG\adventureTime\adventureTime\adventureTime\bin\x86\Debug\adventureTime.pdb
-C:\Users\95aleval\ATG\adventureTime\adventureTime\adventureTime\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\95aleval\ATG\adventureTime\adventureTime\adventureTime\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-C:\Users\95aleval\ATG\adventureTime\adventureTime\adventureTime\obj\x86\Debug\adventureTime.exe
-C:\Users\95aleval\ATG\adventureTime\adventureTime\adventureTime\obj\x86\Debug\adventureTime.pdb
